@@ -1,4 +1,4 @@
-The code you provided performs linear regression on a dataset and then visualizes the data and the resulting regression line.
+This program performs linear regression on a dataset and then visualizes the data and the resulting regression line.
 
 Here's a breakdown of the code:
 
